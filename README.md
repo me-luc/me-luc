@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 </div>
 
 <br clear="both">
-
-![snake gif](https://github.com/me-luc/me-luc/blob/output/github-contribution-grid-snake.svg)

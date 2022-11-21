@@ -1,4 +1,4 @@
-### Hi there, I am Lucas 👋
+
 
 <!--
 **me-luc/me-luc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=me-luc&theme=default)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-luc&layout=compact)](https://github.com/me-luc/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meluc)](https://github.com/me-luc/github-readme-stats)
+
+<h2 align="left">Hi 👋! My name is Samuel, and I'm a Full-Stack Developer.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=me-luc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=me-luc" height="150" alt="languages graph"  />
+</div>

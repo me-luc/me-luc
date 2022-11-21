@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-![snake gif](https://github.com/KAeHM/KAeHM/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/me-luc/me-luc/blob/output/github-contribution-grid-snake.svg)

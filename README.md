@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left">Hi 👋! My name is Samuel, and I'm a Full-Stack Developer.</h2>
+<h2 align="left">Hi 👋! My name is Lucas, and I'm a Full-Stack Developer.</h2>
 
 ###
 

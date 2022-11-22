@@ -36,11 +36,6 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almeida-lucas1) 
 
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=me-luc&icon=0&color=0)](https://visitcount.itsvg.in)

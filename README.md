@@ -31,22 +31,39 @@ Here are some ideas to get you started:
 
  # 💻 Tech Stack:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) </a>
-<a href="[https://www.mongodb.com/](https://www.mongodb.com/)/](https://www.mongodb.com/)" target="_blank"> ![MongoDB](https://img.shields.io/badge/mongodb-DB7093?style=flat&logo=mongodb&logoColor=white) </a>
-<a href="https://docs.oracle.com/en/java/" target="_blank"> ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396) </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) </a>
-<a href="https://reactjs.org/docs/getting-started.html" target="_blank"> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) </a>
-<a href="https://styled-components.com/" target="_blank"> ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) </a>
-
-
-<a href="https://trello.com/guide" target="_blank"> ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 	</a>
-<a href="https://www.figma.com/" target="_blank"> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) </a>
-
+<div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt"STyled-componnets" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  
+<div>
+  
+ # 💻 Others:
+  
+  <div>
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=black" />
+  <img alt="Trello" src="https://img.shields.io/badge/trello-E34F26?style=for-the-badge&logo=trello&logoColor=white" />
+<div>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almeida-lucas1) 
+  
+<div>
+  <img alt="linkedin" href="https://www.linkedin.com/in/almeida-lucas1/" src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=al.lucas.santos@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello%2C%0A%0AI%20tried%20contacting%20you%20today%20but%20you%20seem%20to%20have%20missed%20my%20call.%20%0A%0APlease%20return%20my%20call%20as%20soon%20as%20you%E2%80%99re%20available.%20%0A%0AIn%20any%20case%2C%20I%20will%20try%20ringing%20you%20at%20a%20later%20time.%0A%0A%0ATy%2C%0A%0A%0A%0A" src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  <img alt="dev.to"  href"https://dev.to/meluc" src"https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<div>
 
 <!--
 ---

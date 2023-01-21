@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
 <div>
   
- # 💻 Others:
+ # 🐱 Others:
   
   <div>
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -54,15 +54,23 @@ Here are some ideas to get you started:
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=black" />
   <img alt="Trello" src="https://img.shields.io/badge/trello-E34F26?style=for-the-badge&logo=trello&logoColor=white" />
+    
+    
 <div>
 
 
-## 🌐 Socials:
+## 📧 Socials:
   
 <div>
-  <img alt="linkedin" href="https://www.linkedin.com/in/almeida-lucas1/" src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img alt="gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=al.lucas.santos@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello%2C%0A%0AI%20tried%20contacting%20you%20today%20but%20you%20seem%20to%20have%20missed%20my%20call.%20%0A%0APlease%20return%20my%20call%20as%20soon%20as%20you%E2%80%99re%20available.%20%0A%0AIn%20any%20case%2C%20I%20will%20try%20ringing%20you%20at%20a%20later%20time.%0A%0A%0ATy%2C%0A%0A%0A%0A" src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
-  <img alt="dev.to"  href"https://dev.to/meluc" src"https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  
+  <a href="https://www.linkedin.com/in/almeida-lucas1/">
+     <img alt="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ 
+  <a href="mailto:al.lucas.santos@gmail.com.br">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
 <div>
 
 <!--

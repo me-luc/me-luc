@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   
 <div>
   
+  <br/> 
+  
  # 🐱 Others:
   
   <div>
@@ -54,9 +56,9 @@ Here are some ideas to get you started:
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=black" />
   <img alt="Trello" src="https://img.shields.io/badge/trello-E34F26?style=for-the-badge&logo=trello&logoColor=white" />
-    
-    
 <div>
+  
+<br/> 
 
 
 # 📧 Socials:

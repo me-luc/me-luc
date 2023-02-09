@@ -75,8 +75,10 @@ Here are some ideas to get you started:
   
 <div>
 
-<!--
----
-[![](https://visitcount.itsvg.in/api?id=me-luc&icon=0&color=0)](https://visitcount.itsvg.in)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"></code>
+--> 

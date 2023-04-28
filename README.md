@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  
 <h2 align="left">Hi 👋! My name is Lucas, and I'm a Full-Stack Developer.</h2>
 
 # 💻 Tech Stack:
@@ -77,6 +78,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=me-luc&icon=8&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/me-luc/me-luc/raw/760712d754846755f0295ca3833c526570e8dd5c/img/Lucas%20Almeida.png" alt="Alt Text" width="100%">
+<img src="img/profile-cover2.png" alt="Alt Text" width="100%">
 
 
   

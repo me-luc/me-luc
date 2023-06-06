@@ -1,57 +1,45 @@
+<!-- THIS README WAS BASED ON @Evavic44 PROFILE -->
 
-
-<!--
-**me-luc/me-luc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- COVER IMAGE -->
 <img src="img/profile-cover2.png" alt="Alt Text" width="100%">
 
+## About Me
+My name is Lucas Almeida. I'm a Full-stack developer who loves building ideas and projects. I am always looking for new opportunities to learn and grow as a software developer. My enthusiasm for learning and tackling new challenges drives me to constantly improve and stay up-to-date with the latest industry trends. 
 
-  
-<h2 align="left">Hi 👋! My name is Lucas, and I'm a Full-Stack Developer.</h2>
+If you're interested in connecting with a driven and creative software developer, I'd love to hear from you! Please feel free to reach out and let's chat about how we can work together, I am open to contributing in open-source projects.
 
-# 💻 Tech Stack:
+I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=blueviolet&color=black) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=blueviolet&color=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=blueviolet&color=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=blueviolet&color=black) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blueviolet&color=black) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logoColor=blueviolet&color=black) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blueviolet&color=black) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=blueviolet&color=black) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=blueviolet&color=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=blueviolet&color=black) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=blueviolet&color=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=blueviolet&color=black) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=blueviolet&color=black) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=blueviolet&color=black) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=blueviolet&color=black) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=blueviolet&color=black) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=blueviolet&color=black) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=blueviolet&color=black) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=blueviolet&color=black) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logoColor=blueviolet&color=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=blueviolet&color=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logoColor=blueviolet&color=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=blueviolet&color=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=blueviolet&color=black)
-![Trello](https://img.shields.io/badge/trello-E34F26?style=for-the-badge&logo=trello&logoColor=blueviolet&color=black)
+<!-- Work -->
+## 💻 Work / Skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java,nodejs,react,nextjs,vite,mongodb,postgres,redis,prisma,git,github,figma&theme=dark)](https://skillicons.dev)
+
+<!-- I love working on creative ideas that solves real world problems, transforming UI design to picture perfect, reusable code, maintainig useful projects on GitHub, and sometimes, produce high quality technical articles to help other developers. 
+
+If you have any job or freelance opportunities for me, kindly send me an <a href="https://mailto:evavic44@gmail.com">email</a>.
+
+- Previosuly working with <a href="https://aviyel.com/@victoreke">Aviyel</a> growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects.
+- Freelance projects and contracts. -->
+
+<!-- Featured Projects -->
+## Featured Projects
+
+<!-- ADD YOUR SENETENCE -->
+<!-- As a huge fan of open source, all my personal projects live on GitHub and Codepen. I have built over 20+ projects but there are some that I believe are worth mentioning: -->
+
+<div align="left">
+  <!--  TRACKIT   -->
+  <a href="https://github.com/me-luc/trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=trackit&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Rocketmeme"></a>
+  <!--  MY WALLET BACK   -->
+  <a href="https://github.com/me-luc/mywallet-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=mywallet-back&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
+  <!--  MY WALLET FRONT   -->
+  <a href="https://github.com/me-luc/my-wallet-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=my-wallet-front&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
+  <!--  INSTAGRAM CLONE   -->
+  <a href="https://github.com/me-luc/instagram.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=instagram.com&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Portfolio Ideas"></a>
+</div>
 
 
-
+<!-- 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=me-luc&theme=midnight-purple&hide_border=false)
@@ -75,22 +63,9 @@ Here are some ideas to get you started:
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-</div>
+</div> -->
   
 
 ---
 [![](https://visitcount.itsvg.in/api?id=me-luc&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-<!-- 
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"></code>
---> 

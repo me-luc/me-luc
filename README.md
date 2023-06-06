@@ -8,8 +8,6 @@ My name is Lucas Almeida. I'm a Full-stack developer who loves building ideas an
 
 If you're interested in connecting with a driven and creative software developer, I'd love to hear from you! Please feel free to reach out and let's chat about how we can work together, I am open to contributing in open-source projects.
 
-I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
-
 <!-- Work -->
 ## 💻 Work / Skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java,nodejs,react,nextjs,vite,mongodb,postgres,redis,prisma,git,github,figma&theme=dark)](https://skillicons.dev)
@@ -25,7 +23,7 @@ If you have any job or freelance opportunities for me, kindly send me an <a href
 ## Featured Projects
 
 <!-- ADD YOUR SENETENCE -->
-<!-- As a huge fan of open source, all my personal projects live on GitHub and Codepen. I have built over 20+ projects but there are some that I believe are worth mentioning: -->
+Here are some of my projects I find worthy you take a look
 
 <div align="left">
   <!--  TRACKIT   -->

@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img src="https://github.com/me-luc/me-luc/raw/760712d754846755f0295ca3833c526570e8dd5c/img/Lucas%20Almeida.png" alt="Alt Text" width="100%">
+
+
   
 <h2 align="left">Hi 👋! My name is Lucas, and I'm a Full-Stack Developer.</h2>
 

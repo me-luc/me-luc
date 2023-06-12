@@ -27,13 +27,13 @@ Here are some of my projects I find worthy you take a look
 
 <div align="left">
   <!--  TRACKIT   -->
-  <a href="https://github.com/me-luc/trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=trackit&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Rocketmeme"></a>
+  <a href="https://github.com/me-luc/trackit"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=me-luc&repo=trackit&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Trackit"></a>
   <!--  MY WALLET BACK   -->
-  <a href="https://github.com/me-luc/mywallet-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=mywallet-back&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
+  <a href="https://github.com/me-luc/mywallet-back"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=me-luc&repo=mywallet-back&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="My-Wallet"></a>
   <!--  MY WALLET FRONT   -->
-  <a href="https://github.com/me-luc/my-wallet-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=my-wallet-front&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
+  <a href="https://github.com/me-luc/my-wallet-front"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=me-luc&repo=my-wallet-front&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="My-Wallet client"></a>
   <!--  INSTAGRAM CLONE   -->
-  <a href="https://github.com/me-luc/instagram.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=me-luc&repo=instagram.com&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Portfolio Ideas"></a>
+  <a href="https://github.com/me-luc/instagram.com"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=me-luc&repo=instagram.com&theme=react&bg_color=1F222E&title_color=30c1ff&icon_color=6CD63E&hide_border=true&show_icons=true&" alt="Instagram clone"></a>
 </div>
 
 
